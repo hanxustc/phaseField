@@ -10,5 +10,5 @@
 phaseField/
 ├── test_poly/      Source and header files
 ├── ics/            Matlab files for generating Voronoi diagrams
-├── post/           Python and Matlab scripts for visualization and data processing
+├── post/           Python and Matlab scripts for visualization and data processing (requires theta.out files computed in test_poly)
 ├── README.md
