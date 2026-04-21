@@ -3,7 +3,7 @@
   (e.g. `mpic++`)
 - MATLAB R2023a or newer
 - Python 3.9 or newer
-- A unix-like environment (Linux or macOS recommended)
+- A unix environment (Linux recommended)
 
 ## File Structure
 ```text
