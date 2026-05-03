@@ -12,3 +12,5 @@ phaseField/
 ├── test_poly/      Source and header files (requires poly_matrix.in and generates theta.out)
 ├── post/           Python and Matlab scripts for visualization and data processing (requires theta.out)
 ├── README.md
+
+##Note
