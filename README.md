@@ -13,6 +13,6 @@ phaseField/
 ├── post/           Python and Matlab scripts for visualization and data processing (requires theta.out)
 ├── README.md
 
-##Note
+## Note
 The parameter 'nsmooth' in 'parameter.c' is the interval at which a smoothing function is executed to remove wrinkles in the grain morphology for polycrystalline simulations, typically every 5000–10000 steps.
 It should be turned off (set to a sufficiently large value) when computing energies using the quasi-1D grain slabs.
